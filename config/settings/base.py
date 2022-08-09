@@ -1,5 +1,6 @@
 """Base settings to build other settings files upon."""
 
+import api_app
 import environ
 
 ROOT_DIR = environ.Path(__file__) - 3
@@ -43,6 +44,7 @@ DJANGO_APPS = [
 THIRD_PARTY_APPS = [
 ]
 LOCAL_APPS = [
+    'api_app.apps.ApiAppConfig',
 ]
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
 
