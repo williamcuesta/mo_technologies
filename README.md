@@ -98,7 +98,7 @@ Project Link: [https://github.com/williamcuesta/mo_technologies](https://github.
 [stars-shield]: https://img.shields.io/github/stars/williamcuesta
 [stars-url]: (https://github.com/williamcuesta/mo_technologies)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg
-[linkedin-url]: (https://www.linkedin.com/in/william-yesid-cuesta-cardona-9bb09668)
+[linkedin-url]: https://www.linkedin.com/in/william-yesid-cuesta-cardona-9bb09668
 
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/williamcuesta/mo_technologies?style=plastic)
